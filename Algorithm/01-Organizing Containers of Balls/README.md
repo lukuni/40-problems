@@ -1,4 +1,5 @@
-![App Screenshot](images/Screenshot%202025-06-12%20at%2012.40.03)
+<img src="Screenshot 2025-06-12 at 12.40.03.png" width="600"/>
+
 
 
 
