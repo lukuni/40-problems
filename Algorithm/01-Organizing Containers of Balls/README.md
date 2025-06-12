@@ -1,4 +1,4 @@
-<Algorithm/01-Organizing%20Containers%20of%20Balls/assets/screenshot.png
+
 
 ## Бодлогын өгүүлбэр (Монгол)
 
