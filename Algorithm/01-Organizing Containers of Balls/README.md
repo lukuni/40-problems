@@ -110,5 +110,4 @@ public static String organizingContainers(List<List<Integer>> container) {
     return Arrays.equals(rowSums, colSums) ? "Possible" : "Impossible";
 }
 
-
-Screenshot 2025-06-12 at 12.40.03.png
+![alt text] (<Screenshot 2025-06-12 at 12.40.03.png>)
