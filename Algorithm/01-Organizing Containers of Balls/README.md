@@ -1,4 +1,5 @@
-![Description of Screenshot](<Screenshot 2025-06-12 at 12.40.03.png)
+![App Screenshot](<Screenshot 2025-06-12 at 12.40.03.png)
+
 
 
 ## Бодлогын өгүүлбэр (Монгол)
