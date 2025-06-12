@@ -1,10 +1,4 @@
-![Screenshot](Algorithm/01-Organizing%20Containers%20of%20Balls/assets/screenshot.png)
-
-
-## Demo Screenshot
-
-![Screenshot of the app](assets/Screenshot 2025-06-12 at 13.05.07.png)
-
+<Algorithm/01-Organizing%20Containers%20of%20Balls/assets/screenshot.png
 
 ## Бодлогын өгүүлбэр (Монгол)
 
